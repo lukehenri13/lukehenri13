@@ -1,6 +1,4 @@
-#### Olá a todos e sejam bem vindos(as)! Sou o Lucas Henrique, desenvolvedor na área de Aplicações Web.
-
-* Estudante do Curso de Tecnologia em Sistemas para Internet no Instituto Federal da Paraíba - Campus João Pessoa. 🎓👨‍💻
+#### Olá a todos e sejam bem vindos(as)! Sou o Lucas Henrique, desenvolvedor Fullstack na área de Aplicações Web. 
 
 [![Meus Stats no GitHub](https://github-readme-stats.vercel.app/api?username=lukehenri13&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
